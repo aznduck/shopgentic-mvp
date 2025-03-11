@@ -1,2 +1,7 @@
 # shopgentic-mvp
-MVP for personal AI agent Shopper
+
+cd backend
+npm run dev
+
+cd frontend
+npm start
